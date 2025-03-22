@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Parth N. Chhaya! 👋  
 
-<!--
-**codewithprajapti/codewithprajapti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Full-Stack Developer | Learning MERN Stack**  
+🚀 Passionate about building scalable web apps  
+📌 Currently upskilling through a cohort program  
+🎯 Open to job opportunities | Looking for exciting roles  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js (learning in progress), PHP (familiar with basics)
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithprajapti&show_icons=true&theme=radical)  
+
+## 📫 Connect with Me  
+📩 Email: parthprajapti2203@gmail.com
+
+🔥 *"Code, Learn, Repeat!"*
