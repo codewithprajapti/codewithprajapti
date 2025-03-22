@@ -16,7 +16,10 @@
 
 ## 📫 Connect with Me  
 📩 Email: parthprajapti2203@gmail.com
-[![Blog](https://img.shields.io/badge/Blog-orange?style=flat&logo=blogger)](https://hashnode.com/@ParthChhaya)
-[![X (Twitter)](https://img.shields.io/badge/X-black?style=flat&logo=twitter)](https://x.com/parth_chhaya814)
+### 🌐 Blog  
+[![Blog](https://img.shields.io/badge/Visit%20My%20Blog-orange?style=for-the-badge&logo=blogger&logoColor=white)](https://hashnode.com/@ParthChhaya)
+
+### 🐦 X (Twitter)  
+[![X (Twitter)](https://img.shields.io/badge/Follow%20Me%20on%20X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/parth_chhaya814) 
 
 🔥 *"Code, Learn, Repeat!"*
